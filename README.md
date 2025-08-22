@@ -30,7 +30,7 @@ portfolio-backend/    # PHP API (messages.php)
 ⚡ How to Run Locally
 1. Clone the repository
 git clone https://github.com/your-username/mini-portfolio-web-assignment.git
-cd portfolio-assignment
+cd mini-portfolio-web-assignment
 
 2. Run the Frontend (React)
 cd portfolio-frontend
@@ -81,4 +81,4 @@ Data: JSON file for projects
 
 👨‍💻 Developer
 
-Created by [Your Name] as part of an assignment project.
+Created by Akshay Singh Patel as part of an assignment project.
