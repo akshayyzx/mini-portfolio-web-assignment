@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "Modern responsive e-commerce solution with React, Node.js, and secure payment integration. Features include inventory management, user authentication, and analytics dashboard.",
+    "category": "Full-Stack",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "image": "/public/e-commerce.jpg",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Mobile Banking App",
+    "description": "Intuitive mobile banking application with biometric authentication, real-time transactions, and comprehensive financial management tools.",
+    "category": "Mobile",
+    "technologies": ["React Native", "Firebase", "Redux"],
+    "image": "/mobile.jpg",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "AI-Powered Dashboard",
+    "description": "Advanced analytics dashboard leveraging machine learning for predictive insights and automated reporting capabilities.",
+    "category": "AI/ML",
+    "technologies": ["Python", "TensorFlow", "React", "FastAPI"],
+    "image": "/ai-dashboard.jpg",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Social Media Platform",
+    "description": "Modern social networking platform with real-time messaging, content sharing, and advanced privacy controls.",
+    "category": "Full-Stack",
+    "technologies": ["Next.js", "PostgreSQL", "Socket.io"],
+    "image": "/socialmedia.jpg",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "title": "Healthcare Management System",
+    "description": "Comprehensive healthcare management solution with patient records, appointment scheduling, and telemedicine integration.",
+    "category": "Enterprise",
+    "technologies": ["Vue.js", "Django", "PostgreSQL"],
+    "image": "/hospital.jpg",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "title": "Crypto Trading Bot",
+    "description": "Automated cryptocurrency trading bot with advanced algorithms, risk management, and real-time market analysis.",
+    "category": "FinTech",
+    "technologies": ["Python", "APIs", "Machine Learning"],
+    "image": "/crypto.jpg",
+    "link": "#"
+  }
+]
