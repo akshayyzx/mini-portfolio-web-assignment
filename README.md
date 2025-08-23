@@ -1,4 +1,10 @@
-This project is a responsive mini portfolio website built with ReactJS (frontend) and a simple PHP backend for handling contact form submissions.
+This project is a responsive mini portfolio website built with ReactJS (frontend) and a simple PHP backend for handling contact form submissions along with the wordpress link of the site. 
+
+WordPress (Live Hosted)
+
+📂 Location → Separate from code (not in repo)
+👉 Live Link to WordPress Site:
+🔗 https://patelsinghakshay30-ygstz.wordpress.com
 
 It was created as part of a development assignment.
 
